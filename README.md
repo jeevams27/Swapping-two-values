@@ -18,7 +18,7 @@ Print both the values it would be interchanged
 ### Step 6: 
 End the program
 ## PROGRAM:
-'''
+```
 #Program to swap two values.
 #Developed by: MS.Jeeva
 #RegisterNumber:21500143
@@ -26,7 +26,7 @@ num1=int(input())
 num2=int(input())
 num1,num2=num2,num1
 print("Swapped values are:",num1,num2)
-'''
+```
 ## OUTPUT:
 ![OUTPUT](./ex12.png)
 
